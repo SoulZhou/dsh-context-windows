@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Model Context Windows",
+    "description": "Adjust the context window size per model for connected WorkBuddy and Trae providers"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "模型上下文窗口",
+    "description": "为 WorkBuddy、Trae 已接入的模型逐项设置上下文窗口大小"
+  }
+}

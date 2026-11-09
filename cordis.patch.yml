@@ -1,0 +1,4 @@
+# Settings page for per-model context-window budgets (WorkBuddy + Trae).
+- insert:
+    - id: dsh-context-windows
+      name: dsh-context-windows

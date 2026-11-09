@@ -1,0 +1,12 @@
+# Local install/verification artifacts — never publish
+.install-backup/
+_screenshots/
+assets/icon-96-check.png
+
+# Common local noise
+node_modules/
+*.log
+*.tmp
+*.tgz
+.DS_Store
+Thumbs.db
